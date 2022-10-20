@@ -16,19 +16,16 @@ html{
 }
 
 h1{
-    font-size: 4.5vw;
-    padding-top: 39vh;
+    font-size: 3.3rem;
+    padding-top: 30vh;
     text-align: center;
     padding-bottom: 0;
     width: 100%;
     margin-bottom: 0;
 
 }
-
 .linkBar{
     display: flex;
-    margin-top: 0;
-    font-size: 19px;
     line-height: 1.4211026316;
     font-weight: 100;
     letter-spacing: .0075em;
@@ -46,7 +43,7 @@ img{
 
 h4{
     margin-top: 0;
-    font-size: 1.7vw;
+    font-size: 1.2rem;
 }
 .itemOne{
     width: 50%;
