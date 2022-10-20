@@ -1,5 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
 
+@font-face {
+    font-family:'SF Pro Text';
+    font-style:normal;
+    font-weight:100;
+    src:local('☺'), url(../SF-Pro-Text-Regular.woff2) format("woff2");
+    /* (C) 2019 Apple Inc. All rights reserved.
+ */
+}
+
 html{
     background-color: white;
     color:black;
@@ -19,7 +28,11 @@ h1{
 .linkBar{
     display: flex;
     margin-top: 0;
-
+    font-size: 19px;
+    line-height: 1.4211026316;
+    font-weight: 100;
+    letter-spacing: .0075em;
+    font-family: SF Pro Text;
 }
 
 img{
