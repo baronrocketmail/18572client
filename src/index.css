@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
 
 html{
-    background-color: black;
-    color:white;
-    font-family: "SF Pro";
+    background-color: white;
+    color:black;
+    font-family: SF Pro Text,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;;
 }
 
 h1{
